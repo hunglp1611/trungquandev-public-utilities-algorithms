@@ -1,4 +1,4 @@
-### Bộ code chuẩn để học: Gửi SMS với NodeJS Back-end | TrungQuanDev.
+### Bộ code chuẩn để học Unit Test và React TypeScript trên kênh YouTube TrungQuanDev - Một Lập Trình Viên
 
 - Playlist hướng dẫn chi tiết từ A-Z: updating...
 
@@ -6,13 +6,13 @@
 
 - 🤝 Get Full Source Code for this Course here and support me 🍀
 
-- 🎁 on Ko-fi: https://ko-fi.com/s/174448543b
+- 🎁 on Ko-fi: updating...
 
-- 🎁 on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/425685
+- 🎁 on Buy Me a Coffee: updating...
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
 
-- Link: https://youtu.be/S4IGUh3DQB4
+- Link: updating...
 
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
@@ -21,7 +21,7 @@
 * npm >= v10.5.0
 * yarn >= v1.22.19
 
-* Các gói thư viện trong file package.json (dependencies & devDependencies) đều đã fix đúng phiên bản đểhojc rồi nhé. Bạn vui lòng không tự update nếu không có kinh nghiệm về Semantic Versioning cũng như không biết cách xử lý Bug phát sinh liên quan khó lường về sau. Nếu chưa hiểu về Semantic Versioning, vui lòng xem video này: https://youtu.be/lUfsTj45Uys?si=sgz0JPug9brELKY4
+* Các gói thư viện trong file package.json (dependencies & devDependencies) đều đã fix đúng phiên bản để học rồi nhé. Bạn vui lòng không tự update nếu không có kinh nghiệm về Semantic Versioning cũng như không biết cách xử lý Bug phát sinh liên quan khó lường về sau. Nếu chưa hiểu về Semantic Versioning, vui lòng xem video này: https://youtu.be/lUfsTj45Uys?si=sgz0JPug9brELKY4
 ```
 
 ### About Me - Thông tin về mình:
