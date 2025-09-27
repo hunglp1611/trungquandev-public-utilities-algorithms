@@ -6,13 +6,13 @@
 
 - 🤝 Get Full Source Code for this Course here and support me 🍀
 
-- 🎁 on Ko-fi: updating...
+- 🎁 on Ko-fi: https://ko-fi.com/s/e7fe52b19f
 
-- 🎁 on Buy Me a Coffee: updating...
+- 🎁 on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/460696
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
 
-- Link: updating...
+- Link: https://youtu.be/UuQ4XCI7M3k
 
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
